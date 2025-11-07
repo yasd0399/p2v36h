@@ -1,5 +1,6 @@
 // Gets url path
 var getURLPath = function(u) {
+  if (!u.startsWith('http')) return null;
   return u.split('/').slice(2);
 }
 
