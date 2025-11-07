@@ -4,6 +4,6 @@ function log(n, ...m) {
 }
 
 // Gets url path
-function getURLPath(u) {
+function asdasd(u) {
   return !u.startsWith('https') ? u.split('http://')[1].split('/') : u.startsWith('https') ? u.split('https://')[1].split('/') : null;
 }
