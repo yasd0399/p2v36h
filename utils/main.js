@@ -7,3 +7,5 @@ var getURLPath = function(u) {
 var log = function(n, ...m) {
   console.log(`[${n.toUpperCase()}]`, ...m);
 }
+
+var test = console.log;
