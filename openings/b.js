@@ -1,4 +1,4 @@
-const BOpeningsDB = {
+var BOpeningsDB = {
     "B00 Barnes Defense": "1. e4 f6",
     "B00 Borg Defense": "1. e4 g5",
     "B00 Borg Defense: Borg Gambit": "1. e4 g5 2. d4 Bg7",
