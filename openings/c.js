@@ -1,4 +1,4 @@
-{
+var COpeningsDB = {
     "C00 French Defense": "1. e4 e6 2. d4 d5",
     "C00 French Defense: Alapin Gambit": "1. e4 e6 2. d4 d5 3. Be3",
     "C00 French Defense: Baeuerle Gambit": "1. e4 e6 2. d4 b5",
